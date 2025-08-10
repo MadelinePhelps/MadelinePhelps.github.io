@@ -1,5 +1,7 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Madeline Phelps and I am a space nerd excited to push the boundaries of science and engineering through creativity and hard work. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Mechanical Engineering Master's student at UC San Diego where I recently graduated with a B.S. in Aerospace Engineering. I have extensive hands on experience in design, prototyping, and manufacturing stemming from my experience at [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), [Collins Aerospace](https://www.collinsaerospace.com/what-we-do/industries/commercial-aviation/aerostructures/advanced-structural-materials), and [SEDS UCSD](https://www.sedsucsd.org/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of engineering you can find me reading, learning how to embroider, or exploring the city around me!
+
+Connect with me on [LinkedIn](www.linkedin.com/in/madeline-phelps) or reach out at [mphelps026@gmail.com](mailto:mphelps026@gmail.com).

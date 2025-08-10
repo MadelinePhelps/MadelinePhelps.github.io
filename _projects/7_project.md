@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Mars Mission Concepts
+description: NASA Jet Propulsion Laboratory Summer 2024
+img: assets/img/JPL2024/JPL2024Cover.jpg
 importance: 1
-category: work
-related_publications: true
+category: All Projects
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

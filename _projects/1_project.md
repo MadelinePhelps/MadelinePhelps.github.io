@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Rocket Recovery System
-description: with background image
-img: assets/img/RecoveryProject/CoverRecovery2.jpg
+description: SEDS UCSD Jan 2022 - May 2025
+img: assets/img/RecoveryProject/CoverRecovery.jpg
 importance: 1
 category: All Projects
 related_publications: false
