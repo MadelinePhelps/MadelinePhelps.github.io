@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Recovery System
+title: Rocket Recovery System
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/RecoveryProject/CoverRecovery2.jpg
 importance: 1
-category: work
-related_publications: true
+category: All Projects
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
@@ -17,8 +17,8 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     layout: page
     title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    description: SEDS UCSD Jan 2022 - May 2025
+    img: /assets/img/RecoveryProject/CoverRecovery2.jpg
     ---
 
 <div class="row">
