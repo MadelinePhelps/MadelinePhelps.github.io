@@ -411,7 +411,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-rocket-recovery-system",
           title: 'Rocket Recovery System',
-          description: "with background image",
+          description: "SEDS UCSD Jan 2022 - May 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
@@ -439,9 +439,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-mars-mission-concepts",
+          title: 'Mars Mission Concepts',
+          description: "NASA Jet Propulsion Laboratory Summer 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
