@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-resume",
           title: "Resume",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/resume/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -409,8 +409,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-recovery-system",
-          title: 'Recovery System',
+          section: "News",},{id: "projects-rocket-recovery-system",
+          title: 'Rocket Recovery System',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
