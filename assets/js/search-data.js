@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -414,24 +414,24 @@ ninja.data = [{
           description: "SEDS UCSD Jan 2022 - May 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-concept-suite-builder",
+          title: 'Concept Suite Builder',
+          description: "NASA Jet Propulsion Laboratory Summer 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-nacelle-component-prototyping",
+          title: 'Nacelle Component Prototyping',
+          description: "Collins Aerospace Summer 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-statistical-orbit-determination",
+          title: 'Statistical Orbit Determination',
+          description: "UCSD",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-lab-projects",
+          title: 'Lab Projects',
+          description: "An exhibit of the mini-projects done in lab courses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
@@ -439,14 +439,14 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-mars-mission-concepts",
-          title: 'Mars Mission Concepts',
+            },},{id: "projects-mars-smallsat-concepts",
+          title: 'Mars SmallSat Concepts',
           description: "NASA Jet Propulsion Laboratory Summer 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-composite-rocket-fin",
+          title: 'Composite Rocket Fin',
+          description: "SEDS UCSD",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
