@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: SAMOS Lab
+description:
 img:
 importance: 4
-category: fun
+category: All Projects
 ---
 
 Every project has a beautiful feature showcase page.

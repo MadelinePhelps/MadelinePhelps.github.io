@@ -4,7 +4,7 @@ title: Lab Projects
 description: An exhibit of the mini-projects done in lab courses
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: All Projects
 ---
 
 Every project has a beautiful feature showcase page.

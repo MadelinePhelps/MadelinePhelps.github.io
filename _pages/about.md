@@ -12,7 +12,7 @@ profile:
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -95,4 +95,6 @@ Connect with me on [LinkedIn](www.linkedin.com/in/madeline-phelps) or reach out 
 {% endif %}
 </div>
 </div>
+
+<br>
 

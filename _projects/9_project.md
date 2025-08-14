@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
+title: Titan WIG Glider
+description: UCSD Senior Capstone
 img: assets/img/6.jpg
 importance: 4
-category: fun
+category: All Projects
 ---
 
 Every project has a beautiful feature showcase page.
