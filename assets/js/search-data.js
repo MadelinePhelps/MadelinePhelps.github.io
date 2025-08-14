@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-teaching-amp-mentorship",
+          title: "Teaching&amp;Mentorship",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/teaching-mentorship/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -434,9 +434,9 @@ ninja.data = [{
           description: "An exhibit of the mini-projects done in lab courses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-samos-lab",
+          title: 'SAMOS Lab',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-mars-smallsat-concepts",
@@ -449,9 +449,9 @@ ninja.data = [{
           description: "SEDS UCSD",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-titan-wig-glider",
+          title: 'Titan WIG Glider',
+          description: "UCSD Senior Capstone",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
