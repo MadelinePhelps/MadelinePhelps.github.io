@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Composite Rocket Fin
+description: SEDS UCSD 
 img: assets/img/9.jpg
 importance: 2
-category: work
+category: All Projects
 giscus_comments: true
 ---
 

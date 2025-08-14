@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mars Mission Concepts
+title: Mars SmallSat Concepts
 description: NASA Jet Propulsion Laboratory Summer 2024
 img: assets/img/JPL2024/JPL2024Cover.jpg
 importance: 1

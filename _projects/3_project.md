@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Nacelle Component Prototyping
+description: Collins Aerospace Summer 2023
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+#redirect: https://unsplash.com
 importance: 3
-category: work
+category: All Projects
 ---
 
 Every project has a beautiful feature showcase page.
