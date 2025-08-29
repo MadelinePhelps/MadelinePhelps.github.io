@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching-mentorship/
-title: Teaching&Mentorship
+permalink: /mentoring/
+title: Mentoring
 description:
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 Aside from engineering, teaching is a passion of mine and I believe education is one of the most important things that someone can obtain for themselves. Reflecting this, I have tutored and mentored in various capacities that will be reflected here.
