@@ -2,7 +2,7 @@
 layout: page
 title: Titan WIG Glider
 description: UCSD Senior Capstone
-img: assets/img/6.jpg
+img: assets/img/WIG/WIGCover.png
 importance: 4
 category: All Projects
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Composite Rocket Fin
 description: SEDS UCSD 
-img: assets/img/9.jpg
+img: assets/img/CompositeFin/CompositeFin_Cover.jpg
 importance: 2
 category: All Projects
 giscus_comments: true
