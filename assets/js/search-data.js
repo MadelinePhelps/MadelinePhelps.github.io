@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/mentoring/";
           },
-        },{id: "nav-resume",
-          title: "Resume",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resume/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -404,11 +397,11 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-rocket-recovery-system",
           title: 'Rocket Recovery System',
-          description: "SEDS UCSD Jan 2022 - May 2025",
+          description: "SEDS UCSD Jan 2022 - Present",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-concept-suite-builder",
-          title: 'Concept Suite Builder',
+            },},{id: "projects-multi-payload-mission-design-tools",
+          title: 'Multi-Payload Mission Design Tools',
           description: "NASA Jet Propulsion Laboratory Summer 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -424,12 +417,12 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-lab-projects",
           title: 'Lab Projects',
-          description: "An exhibit of the mini-projects done in lab courses",
+          description: "An exhibit of the projects done in lab courses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-samos-lab",
           title: 'SAMOS Lab',
-          description: "",
+          description: "Dec 2024 - Present",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-mars-smallsat-concepts",
