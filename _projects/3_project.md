@@ -2,17 +2,13 @@
 layout: page
 title: Nacelle Component Prototyping
 description: Collins Aerospace Summer 2023
-img: assets/img/7.jpg
+img: assets/img/Collins/Collins_Cover.jpg
 #redirect: https://unsplash.com
-importance: 3
+importance: 7
 category: All Projects
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<i>Skills Used: Circuit Python, MATLAB, laser cutting, VSPaero, CAD, soldering, wiring, avionics integration, foam cutter, system integration, component and system testing</i>
 
     ---
     layout: page
