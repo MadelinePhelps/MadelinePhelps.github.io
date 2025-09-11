@@ -7,7 +7,18 @@ importance: 6
 category: All Projects
 ---
 
-<i>Skills Used: Circuit Python, MATLAB, laser cutting, VSPaero, CAD, soldering, wiring, avionics integration, foam cutter, system integration, component and system testing</i>
+<i>Skills Used: MATLAB, Python, mission design, orbit determination, Kalman filters, MATLAB and Python function creation, technical writing</i>
+
+<div>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
 
     ---
     layout: page

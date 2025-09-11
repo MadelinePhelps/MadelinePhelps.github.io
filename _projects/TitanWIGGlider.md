@@ -16,7 +16,7 @@ category: All Projects
         <li>Collaborated in 3 person group to compose design for a wing in ground effect (WIG) aircraft demonstrator.</li>
         <li>Used VSP Aero to prototype design and check aerodynamic performance estimations to verify design.</li>
         <li>Performed power calculations to determine a goal mass for the WIG vehicle considering predetermined battery power and propeller type.</li>
-        <li>Created housing for electronic components within foan fuselage of vehicle.</li>
+        <li>Created housing for electronic components within foam fuselage of vehicle.</li>
         <li>Spliced and soldered connections before wiring system inclusive of a Raspberry Pi, flight controller, altimeter, accelerometer, reciever, and 4 servo motors.</li>
         <li>Integrated avionics and developed control surface actuation methods.</li>
         <li>Composed a modified "Bang Bang" control algorithm in Circuit Python for automated control of control surfaces and main propeller speed.</li>
@@ -29,13 +29,13 @@ category: All Projects
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGside.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGside.png" title="Side Profile of WIG vehicle" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGposter.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGposter.png" title="Senior Capstone Poster Presentation" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGCover.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGCover.png" title="Testing the Autonomous Control System" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

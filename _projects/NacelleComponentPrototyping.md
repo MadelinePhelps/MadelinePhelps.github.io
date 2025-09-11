@@ -8,7 +8,18 @@ importance: 7
 category: All Projects
 ---
 
-<i>Skills Used: Circuit Python, MATLAB, laser cutting, VSPaero, CAD, soldering, wiring, avionics integration, foam cutter, system integration, component and system testing</i>
+<i>Skills Used: MATLAB, Catia, dry thermoset layups, wet thermoset layups, thermoset bagging, thermoset debag and deflash, thermoset machining, 3D printing, 3d print prototyping, band saw, drill press, jigsaw, thermolpastic forming, thermocouple manufacturing</i>
+
+<div>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
 
     ---
     layout: page

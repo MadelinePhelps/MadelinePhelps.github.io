@@ -1,14 +1,25 @@
 ---
 layout: page
-title: Mars SmallSat Concepts
-description: NASA Jet Propulsion Laboratory Summer 2024
-img: assets/img/JPL2024/JPL2024Cover.jpg
-importance: 5
+title: Composite Rocket Fin
+description: SEDS UCSD 
+img: assets/img/CompositeFin/CompositeFin_Cover.jpg
+importance: 8
 category: All Projects
-related_publications: false
+giscus_comments: true
 ---
 
-<i>Skills Used: Circuit Python, MATLAB, laser cutting, VSPaero, CAD, soldering, wiring, avionics integration, foam cutter, system integration, component and system testing</i>
+<i>Skills Used: Solidworks, 3D printing, prototyping, wet fiberglass layup prep, wet fiberglas layup procedure, vacuum bag construction, procedure writing, caul sheet prep</i>
+
+<div>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
 
     ---
     layout: page
@@ -40,8 +51,8 @@ related_publications: false
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
