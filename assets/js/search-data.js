@@ -395,11 +395,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-composite-rocket-fin",
-          title: 'Composite Rocket Fin',
+          section: "News",},{id: "projects-composite-layups",
+          title: 'Composite Layups',
           description: "SEDS UCSD",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/CompositeRocketFin/";
+              window.location.href = "/projects/Composites/";
             },},{id: "projects-lab-projects",
           title: 'Lab Projects',
           description: "An exhibit of the projects done in lab courses",
