@@ -395,51 +395,51 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-rocket-recovery-system",
-          title: 'Rocket Recovery System',
-          description: "SEDS UCSD Jan 2022 - Present",
+          section: "News",},{id: "projects-composite-rocket-fin",
+          title: 'Composite Rocket Fin',
+          description: "SEDS UCSD",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-multi-payload-mission-design-tools",
-          title: 'Multi-Payload Mission Design Tools',
-          description: "NASA Jet Propulsion Laboratory Summer 2025",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-nacelle-component-prototyping",
-          title: 'Nacelle Component Prototyping',
-          description: "Collins Aerospace Summer 2023",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-statistical-orbit-determination",
-          title: 'Statistical Orbit Determination',
-          description: "UCSD",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/CompositeRocketFin/";
             },},{id: "projects-lab-projects",
           title: 'Lab Projects',
           description: "An exhibit of the projects done in lab courses",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-samos-lab",
-          title: 'SAMOS Lab',
-          description: "Dec 2024 - Present",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/projects/LabProjects/";
             },},{id: "projects-mars-smallsat-concepts",
           title: 'Mars SmallSat Concepts',
           description: "NASA Jet Propulsion Laboratory Summer 2024",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-composite-rocket-fin",
-          title: 'Composite Rocket Fin',
-          description: "SEDS UCSD",
+              window.location.href = "/projects/MarsSmallSatConcepts/";
+            },},{id: "projects-multi-payload-mission-design-tools",
+          title: 'Multi-Payload Mission Design Tools',
+          description: "NASA Jet Propulsion Laboratory Summer 2025",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/projects/Multi-PayloadMissionDesignTools/";
+            },},{id: "projects-nacelle-component-prototyping",
+          title: 'Nacelle Component Prototyping',
+          description: "Collins Aerospace Summer 2023",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NacelleComponentPrototyping/";
+            },},{id: "projects-rocket-recovery-system",
+          title: 'Rocket Recovery System',
+          description: "SEDS UCSD Jan 2022 - Present",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RocketRecoverySystem/";
+            },},{id: "projects-samos-lab",
+          title: 'SAMOS Lab',
+          description: "Dec 2024 - Present",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SAMOSLab/";
+            },},{id: "projects-statistical-orbit-determination",
+          title: 'Statistical Orbit Determination',
+          description: "UCSD",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/StatisticalOrbitDetermination/";
             },},{id: "projects-titan-wig-glider",
           title: 'Titan WIG Glider',
           description: "UCSD Senior Capstone",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/TitanWIGGlider/";
             },},{
         id: 'social-email',
         title: 'email',
