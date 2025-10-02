@@ -26,16 +26,15 @@ latest_posts:
 ---
 
 
-Hello! My name is Madeline Phelps and I am an Aerospace Engineer excited to push the boundaries of science and engineering through creativity and hard work. 
+Hello! My name is Madeline Phelps, also called Maddy, and I am an Aerospace Engineer excited to push the boundaries of science and engineering through creativity and hard work. 
 
 I am a Mechanical Engineering Master's student at UC San Diego where I recently graduated with a B.S. in Aerospace Engineering. I have extensive hands on experience in design, prototyping, and manufacturing stemming from my experience at [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), [Collins Aerospace](https://www.collinsaerospace.com/what-we-do/industries/commercial-aviation/aerostructures/advanced-structural-materials), and [SEDS UCSD](https://www.sedsucsd.org/).
 
 Outside of engineering you can find me reading, learning how to embroider, or exploring the city around me!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/madeline-phelps) or reach out at [mphelps026@gmail.com](mailto:mphelps026@gmail.com).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/madeline-phelps) or reach out through [email](mailto:mphelps026@gmail.com).
 
-<br>
-<br>
+<br> 
 
 <h3>Projects</h3>
 Check out some of the projects I have done! Click on a project to see more detail.

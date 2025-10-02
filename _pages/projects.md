@@ -3,9 +3,9 @@ layout: page
 title: Projects
 permalink: /projects/
 description: 
-nav: false
+nav: true
 nav_order: 2
-display_categories: [All Projects]
+display_categories: false
 horizontal: false
 ---
 <!-- pages/projects.md -->
