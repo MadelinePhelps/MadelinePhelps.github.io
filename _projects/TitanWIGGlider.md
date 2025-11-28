@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Titan WIG Glider
-description: UCSD Senior Capstone
+description: 2025 - As my senior capstone, I callaborated in a 3 person team to design and build a Wing In Ground effect remote control aircraft. I designed and implemented a number of core elements described here.
 img: assets/img/WIG/WIGCover.png
 importance: 4
 category: All Projects

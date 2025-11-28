@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nacelle Component Prototyping
-description: Collins Aerospace Summer 2023
+description: 2023 - Research and technology role at Collins Aerospace optimizing thermoplastic manipulation jig and prototyping manufacturing methods for Nacelle component replacements.
 img: assets/img/Collins/Collins_Cover.jpg
 #redirect: https://unsplash.com
 importance: 7

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SAMOS Lab
-description: Dec 2024 - Present
+description: 2024 to Present - Description of literature review I am conducting to study satellite ablation modeling techniques for my Master's thesis.
 img: assets/img/SAMOS/SAMOSCover.png
 importance: 2
 category: All Projects

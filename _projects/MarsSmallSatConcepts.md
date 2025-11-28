@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mars SmallSat Concepts
-description: NASA Jet Propulsion Laboratory Summer 2024
+description: 2024 - At NASA JPL, I developed 2 Mars SmallSat mission concepts contributing architecture designs and trade studies in elements relevant to a SmallSat size constraint.
 img: assets/img/JPL2024/JPL2024Cover.jpg
 importance: 5
 category: All Projects

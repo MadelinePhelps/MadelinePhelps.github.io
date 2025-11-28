@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab Projects
-description: An exhibit of the projects done in lab courses
+description: 2021 to 2025 - An exhibit of the projects done in lab courses at the University of California, San Diego.
 img: assets/img/Labs/LabsCover.jpg
 importance: 9
 category: All Projects

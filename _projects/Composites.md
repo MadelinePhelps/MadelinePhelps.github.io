@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Composite Layups
-description: SEDS UCSD 
+description: 2022 to 2025 - Various composite manufacturing projects for complex geometries showcasing core design for manufacturing and process creativity.  
 img: assets/img/Composites/CompositeFin_Cover.jpg
 importance: 8
 category: All Projects

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rocket Recovery System
-description: SEDS UCSD Jan 2022 - Present
+description: 2022 to Present - Design and test of a dual deployment recovery system for a 30,000 ft apogee.
 img: assets/img/RecoveryProject/CoverRecovery.jpg
 importance: 1
 category: All Projects
@@ -14,7 +14,7 @@ related_publications: false
 
 <div>
     <ul>
-        <li>Designed dual-deployment recovery system for 20 ft, 140 lb liquid bi-ropellant rocket.</li>
+        <li>Designed dual-deployment recovery system for 20 ft long, 140 lb liquid bi-ropellant rocket with 30,000 ft apogee.</li>
         <li>Calculated maximum shock force of 2000 lbf from parachute deployment using 2 methods to constrain limits for relevant component design.</li>
         <li>Designed pyrotechnic actuation system for test maximizing safety.</li>
         <li>Designed and executed 5 unique tests for component and system verification.</li>
@@ -23,7 +23,7 @@ related_publications: false
         <li>Wired and initialized Proton flight computer for altimeter and force data.</li>
         <li>Integrated recovery bay system with solid motor system for launch test.</li>
         <li>Successfully launched and recovered solid motor rocket.</li>
-        <li>Wrote a technical research paper on the design and test of the recovery system that will be presented at SciTech 2026.</li>
+        <li>Wrote a technical research paper on the design and test of the recovery system that will be presented at AIAA SciTech in Jan 2026.</li>
     </ul>
 </div>
 

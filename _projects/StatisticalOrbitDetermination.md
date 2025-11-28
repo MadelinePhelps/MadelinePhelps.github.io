@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statistical Orbit Determination
-description: UCSD
+description: 2024 - Analyzed orbital from 3 viewpoints along with projected dynamics to generate approximate location ellipsoid using a Kalman filter.
 img: assets/img/Orbits/OrbitsCover.jpg
 importance: 6
 category: All Projects

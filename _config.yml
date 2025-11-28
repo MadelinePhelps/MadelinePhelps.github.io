@@ -10,7 +10,7 @@ contact_note: >
   <a href="www.linkedin.com/in/madeline-phelps" target="_blank">LinkedIn</a>  |  href="https://madelinephelps.github.io/projects/" target="_blank">Projects</a> |  <a href="https://madelinephelps.github.io/resume/" target="_blank">Resume</a>  |  <a href="https://madelinephelps.github.io/teaching/" target="_blank">Teaching</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
-footer_text: >
+footer_text: >f
 keywords: madeline, madeline-phelps, aerospace, engineering, UCSD # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌌 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
