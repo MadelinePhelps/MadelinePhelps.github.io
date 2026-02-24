@@ -21,5 +21,3 @@ category: All Projects
 </div>
 
 More details on this internship and my tasks will come later when my final presentation and final paper have gone through proper release channels at JPL!
-
-

@@ -4,13 +4,13 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Madeline
-middle_name: 
+middle_name:
 last_name: Phelps
-contact_note: > 
+contact_note: >
   <a href="www.linkedin.com/in/madeline-phelps" target="_blank">LinkedIn</a>  |  href="https://madelinephelps.github.io/projects/" target="_blank">Projects</a> |  <a href="https://madelinephelps.github.io/resume/" target="_blank">Resume</a>  |  <a href="https://madelinephelps.github.io/teaching/" target="_blank">Teaching</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
-footer_text: >f
+
+footer_text: >
 
 keywords: madeline, madeline-phelps, aerospace, engineering, UCSD # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

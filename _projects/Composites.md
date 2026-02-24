@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Composite Layups
-description: 2022 to 2025 - Various composite manufacturing projects for complex geometries showcasing core design for manufacturing and process creativity.  
+description: 2022 to 2025 - Various composite manufacturing projects for complex geometries showcasing core design for manufacturing and process creativity.
 img: assets/img/Composites/CompositeFin_Cover.jpg
 importance: 8
 category: All Projects
@@ -23,7 +23,6 @@ I have helped with, led, and performed a number of composite layups both wet and
         <li>2000 Toyota Celica sideskirt wet fiberglass layup repair. Contributed to surface prep, layup, and post processing.</li>
     </ul>
 </div>
-
 
 <style>
 .fixed-height-img {
@@ -48,4 +47,3 @@ I have helped with, led, and performed a number of composite layups both wet and
 <div class="caption">
     <b>Left:</b> Checking for leaks in the fin can vacuum bag. <b>Middle:</b> Carbon fiber monocoque prepped for post processing. <b>Right:</b> Prepped surfaces for a layup over 3D printed fin cores.
 </div>
-

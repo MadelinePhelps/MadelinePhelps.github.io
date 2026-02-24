@@ -42,4 +42,3 @@ related_publications: false
 </div>
 <div class="caption">
     <b>Left:</b> System test of old vehicle to verify calculations and design approach. <b>Middle:</b> Avionics bay of test and flight vehicle integrated for flight test. <b>Right:</b> Solid motor vehicle on launch rail for flight test.
-

@@ -56,6 +56,3 @@ This collection of projects provided me with a variety of hands on skills that a
 </div>
 <div class="caption">
     <b>Left:</b> Signal processing snapshot. <b>Middle:</b> Gyroscope control lab. <b>Right:</b> Oscilloscope signal snapshot.
-
-
-

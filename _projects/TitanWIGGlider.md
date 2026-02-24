@@ -26,7 +26,6 @@ category: All Projects
 
 <br>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/WIG/WIGside.png" title="Side Profile of WIG vehicle" class="img-fluid rounded z-depth-1" %}
@@ -38,4 +37,3 @@ category: All Projects
         {% include figure.liquid loading="eager" path="assets/img/WIG/WIGCover.png" title="Testing the Autonomous Control System" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-

@@ -19,5 +19,3 @@ category: All Projects
         <li>Produced a volume ellipsoid representing the approximate location of a low Earth orbital.</li>
     </ul>
 </div>
-
-   
