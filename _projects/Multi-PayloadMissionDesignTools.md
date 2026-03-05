@@ -21,3 +21,24 @@ category: All Projects
 </div>
 
 More details on this internship and my tasks will come later when my final presentation and final paper have gone through proper release channels at JPL!
+
+<style>
+.fixed-height-img {
+  height: 200px;
+  width: auto;
+  object-fit: cover;
+  display: block;
+}
+</style>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/JPL2025/CleanRoom.jpg" title="Clean Room Visit" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/JPL2025/SAF.jpg" title="JPL Spacecraft Assembly Facility" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    <b>Left:</b> Suited up to visit the clean room. <b>Right:</b> Spacecraft Assembly Facility building at JPL.
+</div>
