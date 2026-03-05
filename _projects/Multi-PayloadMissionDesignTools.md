@@ -40,5 +40,7 @@ More details on this internship and my tasks will come later when my final prese
     </div>
 </div>
 <div class="caption">
-    <b>Left:</b> Suited up to visit the clean room. <b>Right:</b> Spacecraft Assembly Facility building at JPL.
+    <b>Left:</b> Suited up to visit the clean room! <b>Right:</b> Spacecraft Assembly Facility building at JPL.
 </div>
+
+<br>
