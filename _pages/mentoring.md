@@ -4,7 +4,7 @@ permalink: /mentoring/
 title: Mentoring
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 Aside from engineering, I have had the privilege of being able to teach and mentor my peers in engineering, academics, and specific coursework. Positions I have held are reflected here.
