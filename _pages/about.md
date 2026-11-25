@@ -24,15 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Madeline Phelps, also called Maddy, and I am an Aerospace Engineer excited to push the boundaries of science and engineering through creativity and hard work.
+Hello! My name is Madeline Phelps, also called Maddy, and I am a Space Systems Engineer building hardware to enable space-based science.
 
-I am a Mechanical Engineering Master's student at UC San Diego where I recently graduated with a B.S. in Aerospace Engineering. I have extensive hands on experience in design, prototyping, and manufacturing stemming from my experience at [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), [Collins Aerospace](https://www.collinsaerospace.com/what-we-do/industries/commercial-aviation/aerostructures/advanced-structural-materials), and [SEDS UCSD](https://www.sedsucsd.org/).
+I am currently a Research and Development Engineer at [ANTA Biotech](https://www.anta.bio/) working on developing gravity agnostic sample preparation devices for the ISS. I recently graduated with a Mechanical Engineering Master's from  UC San Diego where I also received a B.S. in Aerospace Engineering. I have hands-on experience in design, prototyping, and manufacturing stemming from my experience in advanced mission design at [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), carbon fiber manufacturing R&D at [Collins Aerospace](https://www.collinsaerospace.com/what-we-do/industries/commercial-aviation/aerostructures/advanced-structural-materials), and [SEDS UCSD](https://www.sedsucsd.org/).
 
-Outside of engineering you can find me reading, learning how to embroider, or exploring the city around me!
+Outside of engineering you can find me riding my motorcycle, reading, learning how to embroider, or exploring the city around me!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/madeline-phelps) or reach out through [email](mailto:13.maddyphelps@gmail.com).
 
-<a href="/assets/pdf/MadelinePhelps_Resume.pdf" class="btn btn-med z-depth-1" target="_blank" rel="noopener">Resume (PDF)
+<a href="/assets/pdf/MadelinePhelps_Resume.pdf" class="btn btn-lg z-depth-1" target="_blank" rel="noopener">Resume (PDF)
 </a>
 
 <br>

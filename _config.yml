@@ -7,7 +7,7 @@ first_name: Madeline
 middle_name:
 last_name: Phelps
 contact_note: >
-  <a href="https://www.linkedin.com/in/madeline-phelps" target="_blank">LinkedIn</a>  |  href="https://madelinephelps.github.io/projects/" target="_blank">Projects</a> |  <a href="https://madelinephelps.github.io/" target="_blank">Top</a>
+  <a href="https://www.linkedin.com/in/madeline-phelps" target="_blank">LinkedIn</a>  |  <a href="https://madelinephelps.github.io/projects/" target="_blank">Projects</a> |  <a href="https://madelinephelps.github.io/" target="_blank">Top</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
