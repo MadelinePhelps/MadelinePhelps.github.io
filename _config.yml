@@ -7,12 +7,12 @@ first_name: Madeline
 middle_name:
 last_name: Phelps
 contact_note: >
-  <a href="www.linkedin.com/in/madeline-phelps" target="_blank">LinkedIn</a>  |  href="https://madelinephelps.github.io/projects/" target="_blank">Projects</a> |  <a href="https://madelinephelps.github.io/resume/" target="_blank">Resume</a>  |  <a href="https://madelinephelps.github.io/teaching/" target="_blank">Teaching</a>
+  <a href="https://www.linkedin.com/in/madeline-phelps" target="_blank">LinkedIn</a>  |  href="https://madelinephelps.github.io/projects/" target="_blank">Projects</a> |  <a href="https://madelinephelps.github.io/" target="_blank">Top</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
 
-keywords: madeline, madeline-phelps, aerospace, engineering, UCSD # add your own keywords or leave empty
+keywords: madeline, madeline-phelps, aerospace, engineering, UCSD, SEDS, SEDS-UCSD # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌌 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -194,6 +194,7 @@ exclude:
   - _pages/books.md
   - _pages/dropdown.md
   - _pages/news.md
+  - _pages/resume.md
   - _pages/profiles.md
   - _pages/repositories.md
   - _posts/

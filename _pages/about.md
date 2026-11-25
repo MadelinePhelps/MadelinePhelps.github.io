@@ -30,7 +30,10 @@ I am a Mechanical Engineering Master's student at UC San Diego where I recently 
 
 Outside of engineering you can find me reading, learning how to embroider, or exploring the city around me!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/madeline-phelps) or reach out through [email](mailto:mphelps026@gmail.com).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/madeline-phelps) or reach out through [email](mailto:13.maddyphelps@gmail.com).
+
+<a href="/assets/pdf/MadelinePhelps_Resume.pdf" class="btn btn-med z-depth-1" target="_blank" rel="noopener">Resume (PDF)
+</a>
 
 <br>
 
