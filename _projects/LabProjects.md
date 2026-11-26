@@ -28,10 +28,10 @@ This collection of projects provided me with a variety of hands on skills that a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Labs/SprocketToyyy.png" title="Sprocket Gear Toy" alt="Machined aluminum and ultem sprocket gear toy" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Labs/SprocketToyyy.png" title="Sprocket Gear Toy" alt="Machined aluminum and Ultem sprocket gear toy" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Labs/wiring.png" title="Wiring" alt="Breadboard, arduino, and oscilloscope connected by wires" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Labs/wiring.png" title="Wiring" alt="Breadboard, Arduino, and oscilloscope connected by wires" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Labs/vibes.png" title="Vibration Tower Experiment" alt="3 level tower with paper figurine" class="img-fluid rounded z-depth-1" %}

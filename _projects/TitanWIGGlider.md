@@ -28,12 +28,12 @@ category: All Projects
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGside.png" title="Side Profile of WIG vehicle" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGside.png" title="Side Profile of WIG vehicle" alt="Foam WIG aircraft model side profile" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGposter.png" title="Senior Capstone Poster Presentation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGposter.png" title="Senior Capstone Poster Presentation" alt="Capstone poster on the Titan WIG glider" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGCover.png" title="Testing the Autonomous Control System" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WIG/WIGCover.png" title="Testing the Autonomous Control System" alt="Foam WIG aircraft model with exposed internal wiring and circuitry plugged into a laptop" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

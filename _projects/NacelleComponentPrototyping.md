@@ -33,7 +33,7 @@ category: All Projects
         {% include figure.liquid loading="eager" path="assets/img/Collins/collinsGroup.png" title="Thermoset Class" alt="group of people in manufacturing facility posing for graduation photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Collins/1RTkeychain.png" title="R&T Keychain" alt="Ultem 3D printed lettering keychain 1 R&T" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Collins/1RTkeychain.png" title="R&T Keychain" alt="Ultem 3D printed lettering keychain reading "1 R&T" for 1 research and technology" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

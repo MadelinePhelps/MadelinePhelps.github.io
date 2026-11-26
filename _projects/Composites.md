@@ -35,13 +35,13 @@ I have helped with, led, and performed a number of composite layups both wet and
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Composites/fincanhalya.png" title="Fin Can Leak Check" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Composites/fincanhalya.png" title="Fin Can Leak Check" alt="Red vacuum bag material around a carbon fiber fin can" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Composites/Monocoque.png" title="Carbon Fiber Monocoque" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Composites/Monocoque.png" title="Carbon Fiber Monocoque" alt="Cured carbon fiber monocoque" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Composites/finprep.png" title="Fin Layup Prep" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Composites/finprep.png" title="Fin Layup Prep" alt="folding tables with carbon fiber layup preparation material on them including IPA, vacuum bags, 3D printed core geometry, and putty tape." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
