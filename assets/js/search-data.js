@@ -63,12 +63,12 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/LabProjects/";
             },},{id: "projects-nasa-jpl-mars-smallsat-concepts",
-          title: 'NASA JPL:Mars SmallSat Concepts',
+          title: 'NASA JPL: Mars SmallSat Concepts',
           description: "2024 - Development of 2 Mars SmallSat mission concepts contributing architecture designs and trade studies in elements relevant to a SmallSat size constraint.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MarsSmallSatConcepts/";
             },},{id: "projects-nasa-jpl-multi-payload-mission-design-tools",
-          title: 'NASA JPL:Multi-Payload Mission Design Tools',
+          title: 'NASA JPL: Multi-Payload Mission Design Tools',
           description: "2025 - Description of participation in a multi-day international design study for a Mars SmallSat transporter requiring development of mission design tools using JavaScript to streamline multi-payload systems engineering.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Multi-PayloadMissionDesignTools/";
