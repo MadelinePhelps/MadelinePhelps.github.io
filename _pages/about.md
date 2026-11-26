@@ -26,7 +26,7 @@ latest_posts:
 
 Hello! My name is Madeline Phelps, also called Maddy, and I am a Space Systems Engineer building hardware to enable space-based science.
 
-I am currently a Research and Development Engineer at [ANTA Biotech](https://www.anta.bio/) working on developing gravity agnosstic sample preparation devices for the ISS. I recently graduated with an M.S. in Mechanical Engineering from  UC San Diego where I also received a B.S. in Aerospace Engineering. I have hands-on experience in design, prototyping, and manufacturing stemming from my experience in advanced mission design at [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), carbon fiber manufacturing R&D at [Collins Aerospace](https://www.collinsaerospace.com/what-we-do/industries/commercial-aviation/aerostructures/advanced-structural-materials), and [SEDS UCSD](https://www.sedsucsd.org/).
+I am currently a Research and Development Engineer at [ANTA Biotech](https://www.anta.bio/) developing gravity-agnostic automated sample preparation devices for the ISS. I recently graduated with an M.S. in Mechanical Engineering from UC San Diego where I also received a B.S. in Aerospace Engineering. I built my design, prototyping, and manufacturing skills through advanced mission design at [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), carbon fiber manufacturing R&D at [Collins Aerospace](https://www.collinsaerospace.com/what-we-do/industries/commercial-aviation/aerostructures/advanced-structural-materials), and liquid rocketry recovery design and test at [SEDS UCSD](https://www.sedsucsd.org/).
 
 Outside of engineering you can find me riding my motorcycle, reading, learning how to embroider, or exploring the city around me!
 
