@@ -24,7 +24,7 @@ related_publications: false
         <li>Organized launch test of recovery system coordinating with Friends of Amateur Rocketry (FAR) for a class M solid motor vehicle and test capabilities. </li>
         <li>Wired and initialized Proton flight computer for altimeter and force data.</li>
         <li>Integrated recovery bay system with solid motor system for launch test.</li>
-        <li>Successfully launched and recovered solid motor rocket.</li>
+        <li>Launched solid motor rocket; achieved partial dual deployment. Test analysis section coming Dec 2026<li>
         <li>Wrote a technical research paper on the design and test of the recovery system that was presented at AIAA SciTech in Jan 2026.</li>
     </ul>
 </div>
