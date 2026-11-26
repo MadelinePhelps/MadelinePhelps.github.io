@@ -28,13 +28,13 @@ This collection of projects provided me with a variety of hands on skills that a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Labs/SprocketToyyy.png" title="Sprocket Gear Toy" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Labs/SprocketToyyy.png" title="Sprocket Gear Toy" alt="Machined aluminum and ultem sprocket gear toy" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Labs/wiring.png" title="Wiring" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Labs/wiring.png" title="Wiring" alt="Breadboard, arduino, and oscilloscope connected by wires" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Labs/vibes.png" title="Vibration Tower Experiment" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Labs/vibes.png" title="Vibration Tower Experiment" alt="3 level tower with paper figurine" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -45,13 +45,13 @@ This collection of projects provided me with a variety of hands on skills that a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Labs/Analog2Digital.png" title="Analog to Digital Signal" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Labs/Analog2Digital.png" title="Analog to Digital Signal" alt="Analog to digital signal conversion graph from MATLAB" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Labs/LabsCover.png" title="Gyroscope" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Labs/LabsCover.png" title="Gyroscope" alt="Gyroscope on lab bench" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Labs/SignalProcessing.JPG" title="Oscilloscope" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Labs/SignalProcessing.JPG" title="Oscilloscope" alt="Sinusoidal wave shown on oscilloscope" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
