@@ -33,13 +33,13 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RecoveryProject/VIIpost.png" title="Old Vehicle Post Ground Test" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RecoveryProject/VIIpost.png" title="Old Vehicle Post Ground Test" alt="Disassembled rocket recovery system with visible parachutes, lines, and recovery bay." class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RecoveryProject/TrashCan.png" title="Avionics Bay Integration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RecoveryProject/TrashCan.png" title="Avionics Bay Integration" alt="Avionics bay with wiring, and parachute anchor mechanisms" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/RecoveryProject/allUp.png" title="Solid Motor Test Vehicle All Up" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/RecoveryProject/allUp.png" title="Solid Motor Test Vehicle All Up" alt="Recovery team pointing to 15 foot solid rocket with recovery system on top" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

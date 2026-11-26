@@ -33,10 +33,10 @@ More details on this internship and my tasks will come later when my final prese
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/JPL2025/CleanRoom.jpg" title="Clean Room Visit" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JPL2025/CleanRoom.jpg" title="Clean Room Visit" alt="two figures in cleanroom bunny suits" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/JPL2025/SAF.jpg" title="JPL Spacecraft Assembly Facility" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JPL2025/SAF.jpg" title="JPL Spacecraft Assembly Facility" alt="NASA meatball logo on JPL spacecraft assembly facility" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

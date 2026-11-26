@@ -8,7 +8,7 @@ importance: 7
 category: All Projects
 ---
 
-<i>Skills Used: MATLAB, CATIA, dry thermoset layups, wet thermoset layups, thermoset bagging, thermoset debag and deflash, thermoset machining, 3D printing, 3d print prototyping, band saw, drill press, jigsaw, thermoplastic forming, thermocouple manufacturing, welding (MIG and TIG)</i>
+<i>Skills Used: MATLAB, CATIA, dry thermoset layups, wet thermoset layups, thermoset bagging, thermoset debag and deflash, thermoset machining, 3D printing, 3D print prototyping, band saw, drill press, jigsaw, thermoplastic forming, thermocouple manufacturing, welding (MIG and TIG)</i>
 
 <h3>My Contributions</h3>
 
@@ -27,13 +27,13 @@ category: All Projects
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Collins/welding.png" title="Learning to Weld" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Collins/welding.png" title="Learning to Weld" alt="Maddy welding on a small metal coupon" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Collins/collinsGroup.png" title="Thermoset Class" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Collins/collinsGroup.png" title="Thermoset Class" alt="group of people in manufacturing facility posing for graduation photo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Collins/1RTkeychain.png" title="R&T Keychain" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Collins/1RTkeychain.png" title="R&T Keychain" alt="Ultem 3D printed lettering keychain 1 R&T" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -26,7 +26,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/JPL2024/jpl24speak.PNG" title="Final Summer Seminar Speaking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/JPL2024/jpl24speak.PNG" title="Final Summer Seminar Speaking" alt="Maddy at a podium speaking to a crowd about her internship project" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <object data="../../assets/pdf/finalreport_CL25-0243-1.pdf" width="500" height="550" type='application/pdf'></object>

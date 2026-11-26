@@ -15,7 +15,7 @@ category: All Projects
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/SAMOS/tasos-mansour-unsplash.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SAMOS/tasos-mansour-unsplash.jpg" title="Reentry" alt="Dark sky with bright object reentering the atmosphere" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

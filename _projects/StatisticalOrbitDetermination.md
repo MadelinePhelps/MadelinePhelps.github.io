@@ -16,6 +16,6 @@ category: All Projects
         <li>Created functions in MATLAB and Python to convert position and velocity vectors to Keplerian orbital elements and back.</li>
         <li>Created functions in MATLAB and Python to propagate orbital dynamics considering the system as a 2 body problem using the J2 Earth oblateness constant.</li>
         <li>Used a batch processor to estimate state deviation.</li>
-        <li>Produced a volume ellipsoid in MATLAB representing the approximate location of a low Earth orbital.</li>
+        <li>Produced a volume ellipsoid in MATLAB representing the approximate location of a low Earth orbit satellite.</li>
     </ul>
 </div>
