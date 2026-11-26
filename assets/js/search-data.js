@@ -89,7 +89,7 @@ ninja.data = [{
               window.location.href = "/projects/SAMOSLab/";
             },},{id: "projects-statistical-orbit-determination",
           title: 'Statistical Orbit Determination',
-          description: "2024 - Analyzed orbital from 3 viewpoints along with projected dynamics to generate approximate location ellipsoid using a Kalman filter.",
+          description: "2024 - Analyzed the orbital motion of a satellite using 3 ground viewpoints and projected dynamics starting from a known location to generate an approximate location ellipsoid using a Kalman filter.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/StatisticalOrbitDetermination/";
             },},{id: "projects-titan-wig-glider",
