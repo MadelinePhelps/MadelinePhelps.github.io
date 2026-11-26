@@ -13,9 +13,9 @@ category: All Projects
 
 <div>
     <ul>
-        <li>Participated in 4 day concurrent engineering design session as a part of the customer team providing estimations and defining contraints for a multi-payload Mars mission concept.</li>
+        <li>Participated in 4 day concurrent engineering design session as a part of the customer team providing estimations and defining constraints for a multi-payload Mars mission concept.</li>
         <li>Wrote MATLAB script to estimate spore recontamination of a spacecraft under 4 scenarios when inside a launch vehicle fairing to study Planetary Protection compliance techniques.</li>
-        <li>Worked on Planetary Protection Primer booklet covering Planetary Protection techiques for Category III missions to Mars.</li>
+        <li>Worked on Planetary Protection Primer booklet covering Planetary Protection techniques for Category III missions to Mars.</li>
         <li>Designed a tool for database interaction and rapid mission design iteration for multiple deployable payloads in TypeScript that provides inputs for associated MATLAB tool.</li>
     </ul>
 </div>

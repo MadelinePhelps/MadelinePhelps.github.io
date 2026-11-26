@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SAMOS Lab
-description: 2024 to Present - In progress literature review on the study satellite ablation modeling techniques.
+description: 2024 to 2025 - Literature review on satellite ablation modeling techniques.
 img: assets/img/SAMOS/SAMOSCover.png
 importance: 2
 category: All Projects
@@ -9,9 +9,9 @@ category: All Projects
 
 <i>Skills Used: MATLAB, Python, orbit analysis, Excel, data sorting and analysis</i>
 
-<i><b>Research Question:</b></i> Are there characteristic features of satellites re-entering Earth's atmosphere that indicate degree of ablation?
+<i><b>Research Question:</b></i> Are there characteristic features of satellites re-entering Earth's atmosphere that indicate their degree of ablation?
 
-<i><b>Approach:</b></i> Using satellites that have reentered within the years 1976 to 1986 I am comparing them against last known tle data in order to identify major differences. This may serve as a foundational database to support validation of burnup and breakup simulation toolboxes on different vehicles with varying shapes, orientations, and entry orbits.
+<i><b>Approach:</b></i> Using satellites that have reentered Earth's atmosphere within the years 1976 to 1986, I am comparing predicted reentry behavior against last known TLE data to identify major differences. This will serve as a foundational database to support validation of burn-up and break-up simulation toolboxes on different vehicles with varying shapes, orientations, and reentry orbits.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

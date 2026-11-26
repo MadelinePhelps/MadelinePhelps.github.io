@@ -7,15 +7,15 @@ importance: 6
 category: All Projects
 ---
 
-<i>Skills Used: MATLAB, Python, mission design, orbit determination, Kalman filters, MATLAB and Python function creation, technical writing</i>
+<i>Skills Used: MATLAB, Python, mission design, orbit determination, Kalman filtering, MATLAB and Python function creation, technical writing</i>
 
 <h3>My Contributions</h3>
 
 <div>
     <ul>
-        <li>Created functions to convert position and velocity vectors to Keplarian orbital elements and back.</li>
-        <li>Created functions to handle orbital dynamics considering the system as a 2 body problem with J2 oblateness constant.</li>
+        <li>Created functions in MATLAB and Python to convert position and velocity vectors to Keplarian orbital elements and back.</li>
+        <li>Created functions in MATLAB and Python to propagate orbital dynamics considering the system as a 2 body problem using the J2 Earth oblateness constant.</li>
         <li>Used a batch processor to estimate state deviation.</li>
-        <li>Produced a volume ellipsoid representing the approximate location of a low Earth orbital.</li>
+        <li>Produced a volume ellipsoid in MATLAB representing the approximate location of a low Earth orbital.</li>
     </ul>
 </div>
