@@ -8,7 +8,7 @@ category: All Projects
 giscus_comments: false
 ---
 
-<i>Skills Used: Solidworks, 3D printing, prototyping, wet and dry layup prep, wet and dry layup procedure, vacuum bag construction, procedure writing, caul sheet prep, post processing</i>
+<i>Skills Used: SolidWorks, 3D printing, prototyping, wet and dry layup prep, wet and dry layup procedure, vacuum bag construction, procedure writing, caul sheet prep, post processing</i>
 
 <h3>My Contributions</h3>
 
@@ -20,7 +20,7 @@ I have helped with, led, and performed a number of composite layups both wet and
         <li>Wet carbon fiber layup of a PLA core rocket fin. Contributed to core material testing, prep, layup, and post processing.</li>
         <li>Fin can wet carbon fiber layup. Contributed to vacuum bag assembly and layup assistance.</li>
         <li>6.5 in. diameter carbon fiber monocoque dry layup. Contributed to prep, layup procedures, and post processing.</li>
-        <li>2000 Toyota Celica sideskirt wet fiberglass layup repair. Contributed to surface prep, layup, and post processing.</li>
+        <li>2000 Toyota Celica side skirt wet fiberglass layup repair. Contributed to surface prep, layup, and post processing.</li>
     </ul>
 </div>
 

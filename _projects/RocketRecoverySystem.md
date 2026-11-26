@@ -10,7 +10,7 @@ related_publications: false
 
 <i>Skills Used: MATLAB, numerical analysis, component design, 3D printing, power tools such as sanders, power saws, and drills, CAD, soldering, avionics integration, Arduino IDE, system integration, component and system testing, solid rocket launch, technical writing</i>
 
-<b>AIAA Scitech 2026 Forum: [Design and Test of Dual Deployment Recovery System for Collegiate High-Powered Liquid Rocketry](https://arc.aiaa.org/doi/10.2514/6.2026-1063)</b>
+<b>AIAA SciTech 2026 Forum: [Design and Test of Dual Deployment Recovery System for Collegiate High-Powered Liquid Rocketry](https://arc.aiaa.org/doi/10.2514/6.2026-1063)</b>
 
 <h3>My Contributions</h3>
 

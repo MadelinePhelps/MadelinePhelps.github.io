@@ -33,7 +33,7 @@ In this course I served as a grader and hosted office hours for two hours a week
 
 In this role, I organized and recruited mentors from SEDS and UCSD's Formula SAE team Triton Racing (TR) for this joint mentorship program to encourage the retention of women in engineering by providing a mentor and support system of their peers.
 
-Under my leadership there was a 200% increase in applicants and over 75% retention for 20+ mentees over 2 cohorts. I paired mentors and mentees based on compatability and had consistent one-on-one conversations with participants to identify needs. I composed and presented college, engineering, and professionalism workshops to prepare the mentees for their organization projects. I hosted a career panel with Northrop Grumman's women's ERG, NGWIN, and co-organized a tour of NASA JPL for both mentors and mentees.
+Under my leadership there was a 200% increase in applicants and over 75% retention for 20+ mentees over 2 cohorts. I paired mentors and mentees based on compatibility and had consistent one-on-one conversations with participants to identify needs. I composed and presented college, engineering, and professionalism workshops to prepare the mentees for their organization projects. I hosted a career panel with Northrop Grumman's women's ERG, NGWIN, and co-organized a tour of NASA JPL for both mentors and mentees.
 
 From my work in this program, SEDS was awarded the Gender Diversity Award with a monetary prize at the 2024 Students for the Exploration and Development of Space SpaceVision national conference.
 
@@ -50,7 +50,7 @@ I served as a Summer tutor for high schoolers participating in the Upward Bound 
 
 During the Intro to Engineering course, I taught a segment on 3D modeling and led a design challenge activity where the students formed groups and created something to improve an ordinary item in their lives.
 
-The students also attended a 3 day 2 night college tour where I was a chaparone and assisted Program Coordinators with tours and college readiness activities for students to do at the colleges.
+The students also attended a 3 day 2 night college tour where I was a chaperone and assisted Program Coordinators with tours and college readiness activities for students to do at the colleges.
 
 <br>
 
