@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NASA JPL:Multi-Payload Mission Design Tools
+title: "NASA JPL: Multi-Payload Mission Design Tools"
 description: 2025 - Description of participation in a multi-day international design study for a Mars SmallSat transporter requiring development of mission design tools using JavaScript to streamline multi-payload systems engineering.
 img: assets/img/JPL2025/JPL2025Cover.jpg
 importance: 3

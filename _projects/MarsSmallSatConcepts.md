@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NASA JPL:Mars SmallSat Concepts
+title: "NASA JPL: Mars SmallSat Concepts"
 description: 2024 - Development of 2 Mars SmallSat mission concepts contributing architecture designs and trade studies in elements relevant to a SmallSat size constraint.
 img: assets/img/JPL2024/JPL2024Cover.jpg
 importance: 5
