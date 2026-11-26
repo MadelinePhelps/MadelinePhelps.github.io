@@ -84,7 +84,7 @@ ninja.data = [{
               window.location.href = "/projects/RocketRecoverySystem/";
             },},{id: "projects-samos-lab",
           title: 'SAMOS Lab',
-          description: "2024 to Present - In progress literature review on the study satellite ablation modeling techniques.",
+          description: "2024 to 2025 - Literature review on satellite ablation modeling techniques.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SAMOSLab/";
             },},{id: "projects-statistical-orbit-determination",
