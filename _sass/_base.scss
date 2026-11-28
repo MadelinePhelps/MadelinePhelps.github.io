@@ -383,7 +383,7 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-#accent-toggle
+#accent-toggle,
 #light-toggle,
 #search-toggle {
   padding: 0;
@@ -1476,8 +1476,8 @@ article li a:not(.btn) {
   display: none;
 
   svg {
-    width: 1.25em;
-    height: 1.25em;
+    width: 1em;
+    height: 1em;
   }
 }
 
