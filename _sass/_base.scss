@@ -1423,3 +1423,10 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+.banner-img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: 20%;
+}
