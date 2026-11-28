@@ -2,10 +2,15 @@
 layout: page
 title: Rocket Recovery System
 description: 2022 to 2026 - Presented at AIAA SciTech 2026 - Design and test of a dual deployment recovery system for a 30,000 ft apogee bi-prop rocket.
-img: assets/img/RecoveryProject/CoverRecovery.jpg
+img: assets/img/RecoveryProject/CoverRecovery.png
 importance: 1
 category: All Projects
-related_publications: false
+related_publications: true
+
+featured: 2   # position on the homepage (1, 2, 3)
+year: 2026    # completion year
+img_alt: "Short description of the cover photo"
+banner_position: banner-upper 
 ---
 
 <i>Skills Used: MATLAB, numerical analysis, component design, 3D printing, power tools such as sanders, power saws, and drills, CAD, soldering, avionics integration, Arduino IDE, system integration, component and system testing, solid rocket launch, technical writing</i>

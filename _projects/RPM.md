@@ -6,13 +6,18 @@ img: assets/img/RPM/CoverRPM.jpg
 importance: 1
 category: All Projects
 related_publications: false
+
+featured: 1   # position on the homepage (1, 2, 3)
+year: 2026    # completion year
+img_alt: "Short description of the cover photo"
+banner_position: banner-upper 
 ---
 
-Lead Engineer | Interdisciplinary Team of 5
 
 
 {% include figure.liquid loading="eager" path="assets/img/RPM/CoverRPM.jpg" title="Top-down view of final random positioning machine" alt="Black 3D printed Random positioning machine with syringe and tubing on the experiment platform." class="banner-img rounded z-depth-1" %}
 
+Lead Engineer | Interdisciplinary Team of 5
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">

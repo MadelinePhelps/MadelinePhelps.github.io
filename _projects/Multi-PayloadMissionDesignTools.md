@@ -5,6 +5,11 @@ description: 2025 - Description of participation in a multi-day international de
 img: assets/img/JPL2025/JPL2025Cover.jpg
 importance: 3
 category: All Projects
+
+featured: 3   # position on the homepage (1, 2, 3)
+year: 2025    # completion year
+img_alt: "Short description of the cover photo"
+banner_position: banner-upper 
 ---
 
 <i>Skills Used: MATLAB, TypeScript, Excel, estimation methods, mission design, systems engineering, technology research, research, technical writing</i>
