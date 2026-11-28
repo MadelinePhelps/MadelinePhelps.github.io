@@ -77,6 +77,11 @@ ninja.data = [{
           description: "2023 - Research and technology role at Collins Aerospace optimizing thermoplastic manipulation jig and prototyping manufacturing methods for Nacelle component replacements.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NacelleComponentPrototyping/";
+            },},{id: "projects-custom-random-positioning-machine",
+          title: 'Custom Random Positioning Machine',
+          description: "2025-2026 - Presented at COSPAR 2026 and ASGSR 2026 - Design and build of a custom benchtop RPM with a fluidics passthrough",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RPM/";
             },},{id: "projects-rocket-recovery-system",
           title: 'Rocket Recovery System',
           description: "2022 to 2026 - Presented at AIAA SciTech 2026 - Design and test of a dual deployment recovery system for a 30,000 ft apogee bi-prop rocket.",
