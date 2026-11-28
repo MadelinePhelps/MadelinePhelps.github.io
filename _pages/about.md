@@ -49,8 +49,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/madeline-phelps) or re
           {% capture card_img_class %}card-img-top banner-img banner-card {{ project.banner_position }}{% endcapture %}
           {% include figure.liquid loading="eager" path=project.img sizes="380px" alt=project.img_alt class=card_img_class %}
           <div class="card-body">
-            <h2 class="card-title">{{ project.title }}</h2>
-            <p class="card-text">{{ project.year }}</p>
+            <h2 class="card-title">{{ project.title }} - {{ project.year }}</h2>
           </div>
         </div>
       </a>

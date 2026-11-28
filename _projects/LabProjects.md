@@ -51,7 +51,7 @@ This collection of projects provided me with a variety of hands on skills that a
         {% include figure.liquid loading="eager" path="assets/img/Labs/LabsCover.png" title="Gyroscope" alt="Gyroscope on lab bench" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Labs/SignalProcessing.JPG" title="Oscilloscope" alt="Sinusoidal wave shown on oscilloscope" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Labs/SignalProcessing.jpg" title="Oscilloscope" alt="Sinusoidal wave shown on oscilloscope" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

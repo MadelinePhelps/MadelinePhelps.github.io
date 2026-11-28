@@ -15,7 +15,9 @@ banner_position: banner-upper
 
 
 
-{% include figure.liquid loading="eager" path="assets/img/RPM/CoverRPM.jpg" title="Top-down view of final random positioning machine" alt="Black 3D printed Random positioning machine with syringe and tubing on the experiment platform." class="banner-img rounded z-depth-1" %}
+{% capture banner_class %}banner-img {{ page.banner_position }} rounded z-depth-1{% endcapture %}
+{% include figure.liquid loading="eager" path=page.img alt=page.img_alt class=banner_class %}
+
 
 Lead Engineer | Interdisciplinary Team of 5
 
