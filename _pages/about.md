@@ -41,20 +41,22 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/madeline-phelps) or re
 <h3>Featured Projects</h3>
 
 {% assign featured_projects = site.projects | where_exp: "p", "p.featured" | sort: "featured" %}
-<div class="row row-cols-1">
-  {% for project in featured_projects %}
-    <div class="col mb-4">
-      <a href="{{ project.url | relative_url }}">
-        <div class="card h-100 hoverable">
-          {% capture card_img_class %}card-img-top banner-img banner-card {{ project.banner_position }}{% endcapture %}
-          {% include figure.liquid loading="eager" path=project.img sizes="380px" alt=project.img_alt class=card_img_class %}
-          <div class="card-body">
-            <h2 class="card-title">{{ project.title }} - {{ project.year }}</h2>
+<div class="projects">
+  <div class="row row-cols-1">
+    {% for project in featured_projects %}
+      <div class="col mb-4">
+        <a href="{{ project.url | relative_url }}">
+          <div class="card h-100 hoverable">
+            {% capture card_img_class %}card-img-top banner-img banner-card {{ project.banner_position }}{% endcapture %}
+            {% include figure.liquid loading="eager" path=project.img sizes="380px" alt=project.img_alt class=card_img_class %}
+            <div class="card-body">
+              <h2 class="card-title">{{ project.title }} - {{ project.year }}</h2>
+            </div>
           </div>
-        </div>
-      </a>
-    </div>
-  {% endfor %}
+        </a>
+      </div>
+    {% endfor %}
+  </div>
 </div>
 
 <div class="text-center mt-3">

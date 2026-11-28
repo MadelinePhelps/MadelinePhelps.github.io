@@ -5,12 +5,12 @@ description: 2022 to 2026 - Presented at AIAA SciTech 2026 - Design and test of 
 img: assets/img/RecoveryProject/CoverRecovery.png
 importance: 1
 category: All Projects
-related_publications: true
+related_publications: false
 
 featured: 2   # position on the homepage (1, 2, 3)
 year: 2026    # completion year
 img_alt: "Short description of the cover photo"
-banner_position: banner-upper 
+banner_position: banner-lower 
 ---
 
 <i>Skills Used: MATLAB, numerical analysis, component design, 3D printing, power tools such as sanders, power saws, and drills, CAD, soldering, avionics integration, Arduino IDE, system integration, component and system testing, solid rocket launch, technical writing</i>
@@ -49,3 +49,4 @@ banner_position: banner-upper
 </div>
 <div class="caption">
     <b>Left:</b> System test of old vehicle to verify calculations and design approach. <b>Middle:</b> Avionics bay of test and flight vehicle integrated for flight test. <b>Right:</b> Solid motor vehicle on launch rail for flight test.
+</div>

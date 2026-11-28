@@ -9,10 +9,9 @@ related_publications: false
 
 featured: 1   # position on the homepage (1, 2, 3)
 year: 2026    # completion year
-img_alt: "Short description of the cover photo"
+img_alt: "Random positioning machine portrait with 3D printed frame and fluid tubing snaking through 2 rotating frames."
 banner_position: banner-upper 
 ---
-
 
 
 {% capture banner_class %}banner-img {{ page.banner_position }} rounded z-depth-1{% endcapture %}
